@@ -1,0 +1,1989 @@
+{
+"music.ootshopintro": {
+    "sounds": [
+        {
+            "name": "music/ootshopintro",
+            "stream": true
+        }
+    ]
+},
+
+"music.ootshoploop": {
+    "sounds": [
+        {
+            "name": "music/ootshoploop",
+            "stream": true
+        }
+    ]
+},
+
+"music.nookscrannyintro": {
+    "sounds": [
+        {
+            "name": "music/nookscrannyintro",
+            "stream": true
+        }
+    ]
+},
+
+"music.nookscrannyloop": {
+    "sounds": [
+        {
+            "name": "music/nookscrannyloop",
+            "stream": true
+        }
+    ]
+},
+
+"music.rcrshop": {
+    "sounds": [
+        {
+            "name": "music/rcrshop",
+            "stream": true
+        }
+    ]
+},
+
+"music.wiishopintro": {
+    "sounds": [
+        {
+            "name": "music/wiishopintro",
+            "stream": true
+        }
+    ]
+},
+
+"music.wiishoploop": {
+    "sounds": [
+        {
+            "name": "music/wiishoploop",
+            "stream": true
+        }
+    ]
+},
+
+"music.buysomethinwillya": {
+    "sounds": [
+        {
+            "name": "music/buysomethinwillya",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.timmy": {
+    "sounds": [
+        {
+            "name": "records/timmy",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mm05": {
+    "sounds": [
+        {
+            "name": "records/mm05",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mm06": {
+    "sounds": [
+        {
+            "name": "records/mm06",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.pwease": {
+    "sounds": [
+        {
+            "name": "records/pwease",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.fishy": {
+    "sounds": [
+        {
+            "name": "records/fishy",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.jgst": {
+    "sounds": [
+        {
+            "name": "records/jgst",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.fnaf": {
+    "sounds": [
+        {
+            "name": "records/fnaf",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mm": {
+    "sounds": [
+        {
+            "name": "records/mm",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mine": {
+    "sounds": [
+        {
+            "name": "records/mine",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.aldente": {
+    "sounds": [
+        {
+            "name": "records/aldente",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.babyhotline": {
+    "sounds": [
+        {
+            "name": "records/babyhotline",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.babyteeth": {
+    "sounds": [
+        {
+            "name": "records/babyteeth",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.beird": {
+    "sounds": [
+        {
+            "name": "records/beird",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.blessedact": {
+    "sounds": [
+        {
+            "name": "records/blessedact",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.bloodpump": {
+    "sounds": [
+        {
+            "name": "records/bloodpump",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.bothersome": {
+    "sounds": [
+        {
+            "name": "records/bothersome",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.bread": {
+    "sounds": [
+        {
+            "name": "records/bread",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.brittle": {
+    "sounds": [
+        {
+            "name": "records/brittle",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.bubblegun": {
+    "sounds": [
+        {
+            "name": "records/bubblegun",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.buttercup": {
+    "sounds": [
+        {
+            "name": "records/buttercup",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.candyeyes": {
+    "sounds": [
+        {
+            "name": "records/candyeyes",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.cheeseburgerfamily": {
+    "sounds": [
+        {
+            "name": "records/cheeseburgerfamily",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.choice": {
+    "sounds": [
+        {
+            "name": "records/choice",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.coconutranger": {
+    "sounds": [
+        {
+            "name": "records/coconutranger",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.coffee": {
+    "sounds": [
+        {
+            "name": "records/coffee",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.cunk": {
+    "sounds": [
+        {
+            "name": "records/cunk",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.cupid": {
+    "sounds": [
+        {
+            "name": "records/cupid",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.curl": {
+    "sounds": [
+        {
+            "name": "records/curl",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.databend": {
+    "sounds": [
+        {
+            "name": "records/databend",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.deadweight": {
+    "sounds": [
+        {
+            "name": "records/deadweight",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.deploy": {
+    "sounds": [
+        {
+            "name": "records/deploy",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.dinnerisnotover": {
+    "sounds": [
+        {
+            "name": "records/dinnerisnotover",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.dognightmare": {
+    "sounds": [
+        {
+            "name": "records/dognightmare",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.dontsaythatonewordithinkisfunny": {
+    "sounds": [
+        {
+            "name": "records/dontsaythatonewordithinkisfunny",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.dumpstergirl": {
+    "sounds": [
+        {
+            "name": "records/dumpstergirl",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.fighter": {
+    "sounds": [
+        {
+            "name": "records/fighter",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.gettinmymomon": {
+    "sounds": [
+        {
+            "name": "records/gettinmymomon",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.hipendlover": {
+    "sounds": [
+        {
+            "name": "records/hipendlover",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.iloveyouvernetroyer": {
+    "sounds": [
+        {
+            "name": "records/iloveyouvernetroyer",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.iunderstand": {
+    "sounds": [
+        {
+            "name": "records/iunderstand",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.iwontrow": {
+    "sounds": [
+        {
+            "name": "records/iwontrow",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.inchman": {
+    "sounds": [
+        {
+            "name": "records/inchman",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.isanyonethere": {
+    "sounds": [
+        {
+            "name": "records/isanyonethere",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.itsalright": {
+    "sounds": [
+        {
+            "name": "records/itsalright",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.johnandnancy": {
+    "sounds": [
+        {
+            "name": "records/johnandnancy",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.justtakemywallet": {
+    "sounds": [
+        {
+            "name": "records/justtakemywallet",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.keyman": {
+    "sounds": [
+        {
+            "name": "records/keyman",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.koiboy": {
+    "sounds": [
+        {
+            "name": "records/koiboy",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.lake": {
+    "sounds": [
+        {
+            "name": "records/lake",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.leopard": {
+    "sounds": [
+        {
+            "name": "records/leopard",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.lookon": {
+    "sounds": [
+        {
+            "name": "records/lookon",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.lynn": {
+    "sounds": [
+        {
+            "name": "records/lynn",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.milk": {
+    "sounds": [
+        {
+            "name": "records/milk",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.msled": {
+    "sounds": [
+        {
+            "name": "records/msled",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.myplea": {
+    "sounds": [
+        {
+            "name": "records/myplea",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.nakedpolly": {
+    "sounds": [
+        {
+            "name": "records/nakedpolly",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.newnormal": {
+    "sounds": [
+        {
+            "name": "records/newnormal",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.our": {
+    "sounds": [
+        {
+            "name": "records/our",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.oatmeal": {
+    "sounds": [
+        {
+            "name": "records/oatmeal",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.ohklahoma": {
+    "sounds": [
+        {
+            "name": "records/ohklahoma",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.outtheox": {
+    "sounds": [
+        {
+            "name": "records/outtheox",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.padthai": {
+    "sounds": [
+        {
+            "name": "records/padthai",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.papertowels": {
+    "sounds": [
+        {
+            "name": "records/papertowels",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.pizzaboy": {
+    "sounds": [
+        {
+            "name": "records/pizzaboy",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.pressedflowers": {
+    "sounds": [
+        {
+            "name": "records/pressedflowers",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.redpress": {
+    "sounds": [
+        {
+            "name": "records/redpress",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.richter": {
+    "sounds": [
+        {
+            "name": "records/richter",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.rottenapple": {
+    "sounds": [
+        {
+            "name": "records/rottenapple",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.runaway": {
+    "sounds": [
+        {
+            "name": "records/runaway",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.safesocks": {
+    "sounds": [
+        {
+            "name": "records/safesocks",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.smallworld": {
+    "sounds": [
+        {
+            "name": "records/smallworld",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.smooth": {
+    "sounds": [
+        {
+            "name": "records/smooth",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.sod": {
+    "sounds": [
+        {
+            "name": "records/sod",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.stones": {
+    "sounds": [
+        {
+            "name": "records/stones",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.stutter": {
+    "sounds": [
+        {
+            "name": "records/stutter",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.sunsetwindow": {
+    "sounds": [
+        {
+            "name": "records/sunsetwindow",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.teaerrors": {
+    "sounds": [
+        {
+            "name": "records/teaerrors",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.theballadofhamantha": {
+    "sounds": [
+        {
+            "name": "records/theballadofhamantha",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.theressomethinghappening": {
+    "sounds": [
+        {
+            "name": "records/theressomethinghappening",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.thoseeggsarentdippy": {
+    "sounds": [
+        {
+            "name": "records/thoseeggsarentdippy",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.todaytoday": {
+    "sounds": [
+        {
+            "name": "records/todaytoday",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.twotime": {
+    "sounds": [
+        {
+            "name": "records/twotime",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.viator": {
+    "sounds": [
+        {
+            "name": "records/viator",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.windrag": {
+    "sounds": [
+        {
+            "name": "records/windrag",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.calm4": {
+    "sounds": [
+        {
+            "name": "records/calm4",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.void": {
+    "sounds": [
+        {
+            "name": "records/void",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.believer": {
+    "sounds": [
+        {
+            "name": "records/believer",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mirror": {
+    "sounds": [
+        {
+            "name": "records/mirror",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.tomorrow": {
+    "sounds": [
+        {
+            "name": "records/tomorrow",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.revenge": {
+    "sounds": [
+        {
+            "name": "records/revenge",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.fallenkingdom": {
+    "sounds": [
+        {
+            "name": "records/fallenkingdom",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.night": {
+    "sounds": [
+        {
+            "name": "records/night",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.pieces": {
+    "sounds": [
+        {
+            "name": "records/pieces",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.dragonhearted": {
+    "sounds": [
+        {
+            "name": "records/dragonhearted",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mmr": {
+    "sounds": [
+        {
+            "name": "records/mmr",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.block": {
+    "sounds": [
+        {
+            "name": "records/block",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mmrap": {
+    "sounds": [
+        {
+            "name": "records/mmrap",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mmrapr": {
+    "sounds": [
+        {
+            "name": "records/mmrapr",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.lrs": {
+    "sounds": [
+        {
+            "name": "records/lrs",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.lrsr": {
+    "sounds": [
+        {
+            "name": "records/lrsr",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mind": {
+    "sounds": [
+        {
+            "name": "records/mind",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.scatmansworld": {
+    "sounds": [
+        {
+            "name": "records/scatmansworld",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.rick": {
+    "sounds": [
+        {
+            "name": "records/rick",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.resonance": {
+    "sounds": [
+        {
+            "name": "records/resonance",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.tides": {
+    "sounds": [
+        {
+            "name": "records/tides",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.native": {
+    "sounds": [
+        {
+            "name": "records/native",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.takeonme": {
+    "sounds": [
+        {
+            "name": "records/takeonme",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.dog": {
+    "sounds": [
+        {
+            "name": "records/dog",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.alpha": {
+    "sounds": [
+        {
+            "name": "records/alpha",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.face": {
+    "sounds": [
+        {
+            "name": "records/face",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mario": {
+    "sounds": [
+        {
+            "name": "records/mario",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.klaus": {
+    "sounds": [
+        {
+            "name": "records/klaus",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.wanderer": {
+    "sounds": [
+        {
+            "name": "records/wanderer",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.home": {
+    "sounds": [
+        {
+            "name": "records/home",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.eleven": {
+    "sounds": [
+        {
+            "name": "records/eleven",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.sanctuaryguardian": {
+    "sounds": [
+        {
+            "name": "records/sanctuaryguardian",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.stillalive": {
+    "sounds": [
+        {
+            "name": "records/stillalive",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.gone": {
+    "sounds": [
+        {
+            "name": "records/gone",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.radio": {
+    "sounds": [
+        {
+            "name": "records/radio",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.dreamers": {
+    "sounds": [
+        {
+            "name": "records/dreamers",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.justthetwoofus": {
+    "sounds": [
+        {
+            "name": "records/justthetwoofus",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.gnocchi": {
+    "sounds": [
+        {
+            "name": "records/gnocchi",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.azumaddendaeiou": {
+    "sounds": [
+        {
+            "name": "records/azumaddendaeiou",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.pareidolia": {
+    "sounds": [
+        {
+            "name": "records/pareidolia",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mindog": {
+    "sounds": [
+        {
+            "name": "records/mindog",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.sadmachine": {
+    "sounds": [
+        {
+            "name": "records/sadmachine",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.gadget": {
+    "sounds": [
+        {
+            "name": "records/gadget",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mall": {
+    "sounds": [
+        {
+            "name": "records/mall",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.toad": {
+    "sounds": [
+        {
+            "name": "records/toad",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.line": {
+    "sounds": [
+        {
+            "name": "records/line",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.chanel": {
+    "sounds": [
+        {
+            "name": "records/chanel",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.feelgoodinc": {
+    "sounds": [
+        {
+            "name": "records/feelgoodinc",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.technologic": {
+    "sounds": [
+        {
+            "name": "records/technologic",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.harderbetterfasterstronger": {
+    "sounds": [
+        {
+            "name": "records/harderbetterfasterstronger",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.aroundtheworld": {
+    "sounds": [
+        {
+            "name": "records/aroundtheworld",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.givelivebacktomusic": {
+    "sounds": [
+        {
+            "name": "records/givelivebacktomusic",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.getlucky": {
+    "sounds": [
+        {
+            "name": "records/getlucky",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.gwyn": {
+    "sounds": [
+        {
+            "name": "records/gwyn",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.tnt": {
+    "sounds": [
+        {
+            "name": "records/tnt",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.minecraftstyle": {
+    "sounds": [
+        {
+            "name": "records/minecraftstyle",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.screwthenether": {
+    "sounds": [
+        {
+            "name": "records/screwthenether",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.diggydiggyhole": {
+    "sounds": [
+        {
+            "name": "records/diggydiggyhole",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.kinect": {
+    "sounds": [
+        {
+            "name": "records/kinect",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.whisper": {
+    "sounds": [
+        {
+            "name": "records/whisper",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.astronaut": {
+    "sounds": [
+        {
+            "name": "records/astronaut",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.thewalkingsong": {
+    "sounds": [
+        {
+            "name": "records/thewalkingsong",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.catapults": {
+    "sounds": [
+        {
+            "name": "records/catapults",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.mariopissing": {
+    "sounds": [
+        {
+            "name": "records/mariopissing",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.bbr": {
+    "sounds": [
+        {
+            "name": "records/bbr",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.yiar": {
+    "sounds": [
+        {
+            "name": "records/yiar",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.dickinbutt": {
+    "sounds": [
+        {
+            "name": "records/dickinbutt",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.jonnil": {
+    "sounds": [
+        {
+            "name": "records/jonnil",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.jonnil2": {
+    "sounds": [
+        {
+            "name": "records/jonnil2",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.craft": {
+    "sounds": [
+        {
+            "name": "records/craft",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.christmas": {
+    "sounds": [
+        {
+            "name": "records/christmas",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.moonquest": {
+    "sounds": [
+        {
+            "name": "records/moonquest",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.carrot": {
+    "sounds": [
+        {
+            "name": "records/carrot",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.yoglabs": {
+    "sounds": [
+        {
+            "name": "records/yoglabs",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.modding": {
+    "sounds": [
+        {
+            "name": "records/modding",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.honeydewyeayea": {
+    "sounds": [
+        {
+            "name": "records/honeydewyeayea",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.nevernether": {
+    "sounds": [
+        {
+            "name": "records/nevernether",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.pingu": {
+    "sounds": [
+        {
+            "name": "records/pingu",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.pingu2": {
+    "sounds": [
+        {
+            "name": "records/pingu2",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.711": {
+    "sounds": [
+        {
+            "name": "records/711",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.santa": {
+    "sounds": [
+        {
+            "name": "records/santa",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.level1": {
+    "sounds": [
+        {
+            "name": "records/level1",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.level3": {
+    "sounds": [
+        {
+            "name": "records/level3",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.level9": {
+    "sounds": [
+        {
+            "name": "records/level9",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.map": {
+    "sounds": [
+        {
+            "name": "records/map",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.title": {
+    "sounds": [
+        {
+            "name": "records/title",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.beware": {
+    "sounds": [
+        {
+            "name": "records/beware",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.thruthewalls": {
+    "sounds": [
+        {
+            "name": "records/thruthewalls",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.knownforit": {
+    "sounds": [
+        {
+            "name": "records/knownforit",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.iwantitineedit": {
+    "sounds": [
+        {
+            "name": "records/iwantitineedit",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.bloodcreepin": {
+    "sounds": [
+        {
+            "name": "records/bloodcreepin",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.guillotine": {
+    "sounds": [
+        {
+            "name": "records/guillotine",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.spreadeaglecrosstheblock": {
+    "sounds": [
+        {
+            "name": "records/spreadeaglecrosstheblock",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.lordofthegame": {
+    "sounds": [
+        {
+            "name": "records/lordofthegame",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.takyon": {
+    "sounds": [
+        {
+            "name": "records/takyon",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.cutthroatinstrumental": {
+    "sounds": [
+        {
+            "name": "records/cutthroatinstrumental",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.klink": {
+    "sounds": [
+        {
+            "name": "records/klink",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.cultureshock": {
+    "sounds": [
+        {
+            "name": "records/cultureshock",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.5d": {
+    "sounds": [
+        {
+            "name": "records/5d",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.youmightthinkhelovesyouforyourmoneybutiknowwhathereallylovesyouforitsyourbrandnewleopardskinpillboxhat": {
+    "sounds": [
+        {
+            "name": "records/youmightthinkhelovesyouforyourmoneybutiknowwhathereallylovesyouforitsyourbrandnewleopardskinpillboxhat",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.annebonny": {
+    "sounds": [
+        {
+            "name": "records/annebonny",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.twoheavens": {
+    "sounds": [
+        {
+            "name": "records/twoheavens",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.thisisviolencenow": {
+    "sounds": [
+        {
+            "name": "records/thisisviolencenow",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.birds": {
+    "sounds": [
+        {
+            "name": "records/birds",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.feelslikeawheel": {
+    "sounds": [
+        {
+            "name": "records/feelslikeawheel",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.imoverflow": {
+    "sounds": [
+        {
+            "name": "records/imoverflow",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.bighouse": {
+    "sounds": [
+        {
+            "name": "records/bighouse",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.governmentplates": {
+    "sounds": [
+        {
+            "name": "records/governmentplates",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.bootleg": {
+    "sounds": [
+        {
+            "name": "records/bootleg",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.whateveriwant": {
+    "sounds": [
+        {
+            "name": "records/whateveriwant",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.1runwayj": {
+    "sounds": [
+        {
+            "name": "records/1runwayj",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.2runwaye": {
+    "sounds": [
+        {
+            "name": "records/2runwaye",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.3runwayn": {
+    "sounds": [
+        {
+            "name": "records/3runwayn",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.4runwayn": {
+    "sounds": [
+        {
+            "name": "records/4runwayn",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.5runwayy": {
+    "sounds": [
+        {
+            "name": "records/5runwayy",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.6runwayd": {
+    "sounds": [
+        {
+            "name": "records/6runwayd",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.7runwaye": {
+    "sounds": [
+        {
+            "name": "records/7runwaye",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.8runwaya": {
+    "sounds": [
+        {
+            "name": "records/8runwaya",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.9runwayt": {
+    "sounds": [
+        {
+            "name": "records/9runwayt",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.10runwayh": {
+    "sounds": [
+        {
+            "name": "records/10runwayh",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.11runwayw": {
+    "sounds": [
+        {
+            "name": "records/11runwayw",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.12runwayh": {
+    "sounds": [
+        {
+            "name": "records/12runwayh",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.13runwaye": {
+    "sounds": [
+        {
+            "name": "records/13runwaye",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.14runwayn": {
+    "sounds": [
+        {
+            "name": "records/14runwayn",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.ramranch": {
+    "sounds": [
+        {
+            "name": "records/ramranch",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.metalmario": {
+    "sounds": [
+        {
+            "name": "records/metalmario",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.street": {
+    "sounds": [
+        {
+            "name": "records/street",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.car": {
+    "sounds": [
+        {
+            "name": "records/car",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.digimon": {
+    "sounds": [
+        {
+            "name": "records/digimon",
+            "stream": true
+        }
+    ]
+}}
