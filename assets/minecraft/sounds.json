@@ -1986,4 +1986,94 @@
             "stream": true
         }
     ]
+},
+
+"music_disc.peacefultimes": {
+    "sounds": [
+        {
+            "name": "records/peacefultimes",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.plasticlove": {
+    "sounds": [
+        {
+            "name": "records/plasticlove",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.gonegonethankyou": {
+    "sounds": [
+        {
+            "name": "records/gonegonethankyou",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.fragile": {
+    "sounds": [
+        {
+            "name": "records/fragile",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.flydaychinatown": {
+    "sounds": [
+        {
+            "name": "records/flydaychinatown",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.gimmelove": {
+    "sounds": [
+        {
+            "name": "records/gimmelove",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.yousuckcharlie": {
+    "sounds": [
+        {
+            "name": "records/yousuckcharlie",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.worldstarmoney": {
+    "sounds": [
+        {
+            "name": "records/worldstarmoney",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.newmagicwand": {
+    "sounds": [
+        {
+            "name": "records/newmagicwand",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.howl": {
+    "sounds": [
+        {
+            "name": "records/howl",
+            "stream": true
+        }
+    ]
 }}
