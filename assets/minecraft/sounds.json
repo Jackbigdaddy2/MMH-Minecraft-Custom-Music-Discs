@@ -2094,4 +2094,13 @@
             "stream": true
         }
     ]
+},
+
+"music_disc.gary": {
+    "sounds": [
+        {
+            "name": "records/gary",
+            "stream": true
+        }
+    ]
 }}
