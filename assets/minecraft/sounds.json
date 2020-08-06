@@ -2076,4 +2076,22 @@
             "stream": true
         }
     ]
+},
+
+"music_disc.daylight": {
+    "sounds": [
+        {
+            "name": "records/daylight",
+            "stream": true
+        }
+    ]
+},
+
+"music_disc.slowdancinginthedark": {
+    "sounds": [
+        {
+            "name": "records/slowdancinginthedark",
+            "stream": true
+        }
+    ]
 }}
